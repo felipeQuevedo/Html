@@ -1,4 +1,4 @@
-  **ENTIDAD: Centro de Biotecnologia Agropecuaria**
+ `#0d1117`  **ENTIDAD: Centro de Biotecnologia Agropecuaria**
   **FICHA: 2558346**
   **PROGRAMA: Analisis y desarrollo de Software - ADSO**
   **Autor: Felipe Quevedo**
