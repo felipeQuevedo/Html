@@ -1,49 +1,54 @@
 #col1{
-    
     margin: 0 auto;
-    background-color:rgb(201, 28, 235);
+    background-color:#bde0fe;
     border-width: 1px;
   border-style: solid;
   border-color: rgb(255, 255, 255);
   text-align: center;
+  height: 100px;
 }
 #col2{
-    background-color:rgb(78, 12, 201);
+    background-color:#a2d2ff;
     border-color: white;
     border-width: 1px;
   border-style: solid;
   border-color: rgb(255, 255, 255);
   text-align: center;
+  height: 150px;
 }
 #col3{
-    background-color:rgb(231, 26, 129);
+    background-color:#ffafcc;
     border-color: white;
     border-width: 1px;
   border-style: solid;
   border-color: rgb(255, 255, 255);
   text-align: center;
+  height: 150px;
 }
 #col4{
-    background-color:rgb(207, 26, 231);
+    background-color:#ffc8dd;
     border-color: white;
     border-width: 1px;
   border-style: solid;
   border-color: rgb(255, 255, 255);
   text-align: center;
+  height: 150px;
 }
 #col5{
-  background-color:rgb(85, 5, 95);
+  background-color:#cdb4db;
   border-color: white;
   border-width: 1px;
 border-style: solid;
 border-color: rgb(255, 255, 255);
 text-align: center;
+height: 300px;
 }
 #col6{
-  background-color:rgb(118, 31, 231);
+  background-color:rgb(216, 185, 255);
   border-color: white;
   border-width: 1px;
 border-style: solid;
 border-color: rgb(255, 255, 255);
 text-align: center;
+height: 50px;
 }
