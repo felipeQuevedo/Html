@@ -1,0 +1,20 @@
+h1{
+    color: rgb(255, 0, 0);
+    text-align:center;
+}
+.tbl1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(247, 230, 230);
+    margin-left: auto;
+    margin-right: auto;
+    text-align:center;
+    border-left: solid 10px;
+    border-right: solid 10px;
+    border-bottom: solid 10px;
+    border-top: solid 10px;
+    border-radius: 10px;
+    max-width: auto;
+  
+    object-fit: fill;
+
+}
